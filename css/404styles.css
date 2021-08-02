@@ -72,13 +72,11 @@ button {
     color: #ffff;
 }
 
-
-/**footer {
+footer {
     display: flex;
     flex-direction: row;
     justify-self: center;
 }
-**/
 
 h3 {
     width: 287px;
