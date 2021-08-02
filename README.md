@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://thirsty-archimedes-ddbb3a.netlify.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://thirsty-archimedes-ddbb3a.netlify.app/">
+    <a href="https://github.com/PFT-Repo/404-page-solution">
       Solution
     </a>
     <span> | </span>
